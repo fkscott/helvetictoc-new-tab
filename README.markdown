@@ -1,12 +1,13 @@
 # Helvetictoc New Tab
 ===============
+
 A time-full tribute to a timeless typeface in your new tab page.
 
 I always loved this site so I figured I would turn this into something I could see every time I opened a new tab in Chrome. 
 
 I also removed all the references to Ruby Make since the JS has been stable for 12 years. Feel free to fork this and mess with the fonts and background.
 
-## Installation.
+## Installation
 
 1. Clone this repo or download its contents in a zip file.
 
