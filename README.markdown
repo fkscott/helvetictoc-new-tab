@@ -1,6 +1,8 @@
 # Helvetictoc New Tab
 ===============
 
+![new tab page](./screenshots/new-tab.png)
+
 A time-full tribute to a timeless typeface in your new tab page.
 
 I always loved this site so I figured I would turn this into something I could see every time I opened a new tab in Chrome. 
